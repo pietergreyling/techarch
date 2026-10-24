@@ -1,2 +1,5 @@
 # techarch
-Technical Architecture Notebook 
+
+## Technical Architecture Notebook 
+
+This repository documents Technical Architecture experiments.
